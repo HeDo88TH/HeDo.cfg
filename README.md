@@ -1,11 +1,11 @@
-# Bystry.cfg
-Bystry's ET cfg 
+# HeDo.cfg
+HeDo's ET cfg
 
 VERY LOW QUALITY GRAPHICS AND SOUNDS.
 
-With Modus Operandi Spawn Script / Spawn Timer. 
+With Modus Operandi Spawn Script / Spawn Timer.
 
-Copy all files to your legacy/etpro directory - for legacy mod delete all b_ CVARs from bystry.cfg.
+Copy all files to your legacy/etpro directory - for legacy mod delete all b_ CVARs from hedo.cfg.
 
 Spawn points are selected by: arrows.
 
